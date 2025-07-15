@@ -8,7 +8,7 @@
 
 ## 重要说明
 
-**本仓库仅用于文档说明。** 本项目所需的C++编译源码来自于地平线官方仓库：https://github.com/D-Robotics/sensevoice_ros2
+**本仓库仅用于文档说明。** 本项目所需的C++编译源码来自于地瓜机器人官方仓库：https://github.com/D-Robotics/sensevoice_ros2
 
 一切以官方源代码仓库为准。本仓库只提供文档和使用说明。具体更新和最新信息请参考：
 - 官方源代码仓库：https://github.com/D-Robotics/sensevoice_ros2
@@ -31,7 +31,7 @@
 
 **对于大多数用户，我们推荐直接使用预编译包。**
 
-启动RDK 板卡后，通过终端SSH或者VNC连接机器人，复制如下命令在RDK的系统上运行，完成相关Node的安装。
+启动RDK 板卡后，通过终端SSH或者VNC连接，复制如下命令在RDK的系统上运行，完成相关Node的安装。
 
 tros humble 版本
 ```bash
